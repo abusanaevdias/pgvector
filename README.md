@@ -1,3 +1,11 @@
+> **Engineering study fork · abusanaevdias**
+>
+> Original project: [pgvector/pgvector](https://github.com/pgvector/pgvector) · PostgreSQL-style license (see retained LICENSE)
+> [Engineering notes](ENGINEERING_NOTES.md): use case, architecture, trade-offs and proposed verification.
+> Upstream authorship and license are retained. Portfolio additions are documentation.
+
+---
+
 # pgvector
 
 Open-source vector similarity search for Postgres
